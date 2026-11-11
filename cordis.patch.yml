@@ -1,0 +1,4 @@
+# BMI 计算器
+- insert:
+    - id: dsh-calc-bmi
+      name: "@liangjiehappy/dsh-calc-bmi"
